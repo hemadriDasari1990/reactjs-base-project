@@ -1,0 +1,101 @@
+[
+      {
+        "id": 960,
+        "name": "Sample APP Adslot gravity",
+        "type": 1,
+        "url": "eleven.animal/needs",
+        "format": "506x716",
+        "price": 849,
+        "fallback": false
+      },
+      {
+        "id": 3961,
+        "name": "Sample APP Adslot plastic",
+        "type": 1,
+        "url": "fly.prove/score",
+        "format": "883x457",
+        "price": 10,
+        "fallback": false
+      },
+      {
+        "id": 4618,
+        "name": "Sample APP Adslot many",
+        "type": 1,
+        "url": "sea.against/warn",
+        "format": "836x623",
+        "price": 701,
+        "fallback": false
+      },
+      {
+        "id": 4854,
+        "name": "Sample APP Adslot official",
+        "type": 1,
+        "url": "weight.done/giant",
+        "format": "761x43",
+        "price": 814,
+        "fallback": true
+      },
+      {
+        "id": 6245,
+        "name": "Sample APP Adslot attention",
+        "type": 1,
+        "url": "music.team/cream",
+        "format": "576x144",
+        "price": 656,
+        "fallback": true
+      },
+      {
+        "id": 6781,
+        "name": "Sample APP Adslot enter",
+        "type": 1,
+        "url": "ants.surrounded/dried",
+        "format": "448x918",
+        "price": 905,
+        "fallback": false
+      },
+      {
+        "id": 7265,
+        "name": "Sample AUDIO Adslot tone",
+        "type": 2,
+        "url": "managed.happen/diameter",
+        "format": "244x775",
+        "price": 352,
+        "fallback": true
+      },
+      {
+        "id": 7653,
+        "name": "Sample APP Adslot winter",
+        "type": 1,
+        "url": "western.church/give",
+        "format": "2x950",
+        "price": 708,
+        "fallback": false
+      },
+      {
+        "id": 8446,
+        "name": "Sample APP Adslot mouth",
+        "type": 1,
+        "url": "tool.whose/muscle",
+        "format": "160x291",
+        "price": 194,
+        "fallback": false
+      },
+      {
+        "id": 9295,
+        "name": "check",
+        "type": 2,
+        "url": "check.com",
+        "format": "123x763",
+        "price": 100,
+        "fallback": false
+      },
+      {
+        "id": 9467,
+        "name": "Sample undefined Adslot till",
+        "type": 4,
+        "url": "troops.blank/gone",
+        "format": "388x272",
+        "price": 471,
+        "fallback": true
+      }
+    ]
